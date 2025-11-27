@@ -1,7 +1,7 @@
-Alexandra Vermeychik
-INST 326: Object-Oriented Programming for Information Science
-Professor Lou
-December 7, 2025
+##### Alexandra Vermeychik
+##### INST 326: Object-Oriented Programming for Information Science
+##### Professor Lou
+##### December 7, 2025
 
 # Homework 4: Analyze a Dataset of Your Choice
 
