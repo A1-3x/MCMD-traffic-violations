@@ -6,8 +6,15 @@ December 7, 2025
 # Homework 4: Analyze a Dataset of Your Choice
 
 ## Dataset
+### Traffic Violations
+
+This [dataset](https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data) includes information on all traffic violations recorded within Montgomery County, Maryland since January 1st, 2012. It can be found using the dataMontgomery [repository](https://data.montgomerycountymd.gov/). Data recorded includes driver demographics, vehicle descriptions, and incident categorization.
 
 ## Pandas Operations Performed
+
+| Operation | Purpose |
+|-----------|---------|
+| read_csv()| import csv as Dataframe |
 
 ## Observations
 
